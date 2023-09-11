@@ -4,7 +4,7 @@
   - scss: chứa code scss
     - main.scss: file scss cho index.html
     - about.scss: file scss của about.html
-    - partials: thành phần
+    - partials: thành phần git 
       - _variable.scss: chứa khai báo biến
       - _mixin.scss: chứa mixin
       - _font.scss: chứa font chữ
@@ -19,3 +19,4 @@
 # yeu cau
 - Sử dụng Scss
 - Push code lên github và sử dụng github page
+////

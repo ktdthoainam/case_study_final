@@ -1,0 +1,33 @@
+@keyframes textAnimation{
+    0%{
+        left: -450px;
+        opacity: 0;
+    }
+    50%{
+        opacity: 5%;
+    }
+    75%{
+        opacity: 30%;
+    }
+    100%{
+        left: 0;
+        opacity: 100%;
+    }
+}
+@keyframes heartBeat{
+    0%{
+        scale: 0.98;
+    }
+    25%{
+        0.99;
+    }
+    50%{
+        scale: 1;
+    }
+    75%{
+        1.01;
+    }
+    100%{
+        scale: 1.02;
+    }
+}
